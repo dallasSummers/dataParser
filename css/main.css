@@ -1,0 +1,30 @@
+body{
+  background-color: #EEFFD9;
+  margin: 75px;
+}
+
+#my-app{
+  margin: 3em 1em 1em 1em;
+  padding: 1em;
+  background-color: #D1E6E8;
+  box-shadow: 3px 3px 10px #000;
+
+}
+
+h1{
+	letter-spacing: .0125em;
+	text-shadow: 6px 9px 15px #310800;
+}
+
+#ta{
+	resize: none;
+	border-radius: 30px;
+}
+
+#codeArea, #textArea{
+  display: inline-block;
+}
+
+#codeArea{
+  margin-right:5%;
+}
